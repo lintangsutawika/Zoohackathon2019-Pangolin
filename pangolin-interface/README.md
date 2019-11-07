@@ -94,4 +94,5 @@ Open a Web browser and go to <http://127.0.0.1:8000/login/>. You should see the 
 
 ## Contribution
 
-This code was heavily inspired by [Doccano](https://github.com/chakki-works/doccano/wiki/How-to-Contribute-to-Doccano-Project)
+This code is adapted from [Doccano](https://github.com/chakki-works/doccano/wiki/How-to-Contribute-to-Doccano-Project)
+Please support his project
